@@ -39,5 +39,6 @@ int main()
     book b;
     b.getdata();
     b.display();
+return 0;
 
 }
