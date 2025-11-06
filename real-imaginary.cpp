@@ -26,7 +26,8 @@ int main() {
     c1.display();
     cout << "second complex number:";
     c2.display();
-    cout << "sum:";
+    cout << "sum of complex number:";
     c3.display();
     return 0;
+
 }
