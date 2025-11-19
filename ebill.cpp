@@ -40,11 +40,12 @@ void calculate()
 };
 int main()
 {
-    EBBill b;
+    EBill b;
     b.getdetails();
     b.calculate();
     b.print();
     return 0;
 }
+
 
 
